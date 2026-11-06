@@ -1,1 +1,2 @@
+This is the updated content on main branch.
 This is the updated content on conflict-branch.
